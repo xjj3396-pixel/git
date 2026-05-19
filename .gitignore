@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+api/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
